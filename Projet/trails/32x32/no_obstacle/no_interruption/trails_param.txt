@@ -1,0 +1,5 @@
+	boardSize : 32 x 32
+	food items : 120
+	missingFoodItems : 0
+	maxConsecutiveMissingFoodItems : 0
+	

@@ -1,0 +1,9 @@
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Debug\WindowsApplication1.Calculatrice.resources
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Debug\TP1.vbproj.GenerateResource.Cache
+C:\Users\Max\Desktop\tp1\TP1\bin\Debug\TP1.exe
+C:\Users\Max\Desktop\tp1\TP1\bin\Debug\TP1.pdb
+C:\Users\Max\Desktop\tp1\TP1\bin\Debug\TP1.xml
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Debug\TP1.xml
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Debug\TP1.pdb

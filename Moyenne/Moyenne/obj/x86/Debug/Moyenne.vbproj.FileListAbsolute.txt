@@ -1,0 +1,11 @@
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\bin\Debug\Moyenne.exe
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\bin\Debug\Moyenne.pdb
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\bin\Debug\Moyenne.xml
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\obj\x86\Debug\ResolveAssemblyReference.cache
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\obj\x86\Debug\GenerateResource.read.1.tlog
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\obj\x86\Debug\GenerateResource.write.1.tlog
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\obj\x86\Debug\Moyenne.exe
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\obj\x86\Debug\Moyenne.xml
+\\rohan\i\21200036\Documents\Visual Studio 2010\Projects\Moyenne\Moyenne\obj\x86\Debug\Moyenne.pdb

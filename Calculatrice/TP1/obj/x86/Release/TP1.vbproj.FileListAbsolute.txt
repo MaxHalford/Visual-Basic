@@ -1,0 +1,21 @@
+C:\Users\Max\Desktop\tp1\TP1\bin\Release\TP1.exe
+C:\Users\Max\Desktop\tp1\TP1\bin\Release\TP1.pdb
+C:\Users\Max\Desktop\tp1\TP1\bin\Release\TP1.xml
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Release\WindowsApplication1.Calculatrice.resources
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Release\TP1.vbproj.GenerateResource.Cache
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Release\TP1.exe
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Release\TP1.xml
+C:\Users\Max\Desktop\tp1\TP1\obj\x86\Release\TP1.pdb
+C:\Users\Max\Desktop\TP 1 - 3\TP1\obj\x86\Release\TP1.exe
+C:\Users\Max\Desktop\TP 1 - 3\TP1\obj\x86\Release\TP1.xml
+C:\Users\Max\Desktop\TP 1 - 3\TP1\obj\x86\Release\TP1.pdb
+C:\Users\Max\Desktop\TP 1 - 3\TP1\bin\Release\TP1.exe
+C:\Users\Max\Desktop\TP 1 - 3\TP1\bin\Release\TP1.pdb
+C:\Users\Max\Desktop\TP 1 - 3\TP1\bin\Release\TP1.xml
+C:\Users\Max\Desktop\TP 1 - 3\TP1\obj\x86\Release\WindowsApplication1.Calculatrice.resources
+C:\Users\Max\Desktop\TP 1 - 3\TP1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Max\Desktop\TP 1 - 3\TP1\obj\x86\Release\TP1.vbproj.GenerateResource.Cache
+C:\Users\Max\Desktop\Cours\S4\Algorithmique\TP 1 - 3\TP1\obj\x86\Release\TP1.exe
+C:\Users\Max\Desktop\Cours\S4\Algorithmique\TP 1 - 3\TP1\obj\x86\Release\TP1.xml
+C:\Users\Max\Desktop\Cours\S4\Algorithmique\TP 1 - 3\TP1\obj\x86\Release\TP1.pdb

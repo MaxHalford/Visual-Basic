@@ -1,0 +1,5 @@
+	boardSize : 20 x 20
+	food items : 30
+	missingFoodItems : 10
+	maxConsecutiveMissingFoodItems : 2
+	
